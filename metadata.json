@@ -1,0 +1,6 @@
+{
+  "name": "Opportunity Trust",
+  "description": "Plateforme internationale de découverte, de vérification et de gestion des opportunités académiques et professionnelles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
